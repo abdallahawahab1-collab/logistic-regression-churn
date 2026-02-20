@@ -1,0 +1,6 @@
+{
+  "roc_auc": 0.8418610659019866,
+  "average_precision": 0.6334285921532531,
+  "default_threshold": 0.5,
+  "tuned_threshold": 0.0017
+}
